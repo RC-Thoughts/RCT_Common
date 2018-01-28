@@ -1,0 +1,33 @@
+{
+  "12-Hour Clock": {
+    "author": "RC-Thoughts",
+    "version": "V1.2",
+    "previewImg": "https://cdn.rc-thoughts.com/wp-content/uploads/2016/08/Jeti-Tools_small.png",
+    "description": "https://raw.githubusercontent.com/RC-Thoughts/LUA-12h-Clock/master/README.md",
+    "sourceFile": [
+      "https://raw.githubusercontent.com/RC-Thoughts/LUA-12h-Clock/master/Source/RCT-12h.lua"
+    ],
+    "destinationPath": [
+      "/Apps"
+    ]
+  },
+  "Battery Percentage": {
+    "author": "RC-Thoughts",
+    "version": "V2.4",
+    "previewImg": "https://cdn.rc-thoughts.com/wp-content/uploads/2016/08/Jeti-Tools_small.png",
+    "description": "https://raw.githubusercontent.com/RC-Thoughts/LUA-Battery-Percentage/master/README.md",
+    "requiredFirmware": 4.23,
+    "sourceFile14_16": [
+      "https://raw.githubusercontent.com/RC-Thoughts/LUA-Battery-Percentage/master/DCDS-1416/RCT-Batt.lc",
+      "https://raw.githubusercontent.com/RC-Thoughts/LUA-Battery-Percentage/master/DCDS-1416/Lang/RCT-Batt.jsn"
+    ],
+    "sourceFile24": [
+      "https://raw.githubusercontent.com/RC-Thoughts/LUA-Battery-Percentage/master/DCDS-24/RCT-Batt.lc",
+      "https://raw.githubusercontent.com/RC-Thoughts/LUA-Battery-Percentage/master/DCDS-24/Lang/RCT-Batt.jsn"
+    ],
+    "destinationPath": [
+      "/Apps",
+      "/Apps/Lang"
+    ]
+  }
+}
