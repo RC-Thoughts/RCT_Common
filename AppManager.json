@@ -1,7 +1,7 @@
 {
   "12-Hour Clock": {
     "author": "RC-Thoughts",
-    "version": "V1.2",
+    "version": "1.2",
     "previewImg": "https://raw.githubusercontent.com/RC-Thoughts/RCT_Common/master/images/rct.png",
     "description": "https://raw.githubusercontent.com/RC-Thoughts/LUA-12h-Clock/master/README.md",
     "sourceFile": [
@@ -13,7 +13,7 @@
   },
   "Battery Percentage": {
     "author": "RC-Thoughts",
-    "version": "V2.4",
+    "version": "2.4",
     "previewImg": "https://raw.githubusercontent.com/RC-Thoughts/RCT_Common/master/images/rct.png",
     "description": "https://raw.githubusercontent.com/RC-Thoughts/LUA-Battery-Percentage/master/README.md",
     "requiredFirmware": 4.23,
