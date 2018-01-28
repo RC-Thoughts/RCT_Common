@@ -11,6 +11,21 @@
       "/Apps"
     ]
   },
+  "Altitude Announcer": {
+    "author": "RC-Thoughts",
+    "version": "1.7",
+    "previewImg": "https://raw.githubusercontent.com/RC-Thoughts/RCT_Common/master/images/rct_small.png",
+    "description": "https://raw.githubusercontent.com/RC-Thoughts/LUA_AltAnnouncer/master/README.md",
+    "requiredFirmware": 4.22,
+    "sourceFile": [
+      "https://raw.githubusercontent.com/RC-Thoughts/LUA_AltAnnouncer/master/RCT-AltA.lc",
+      "https://raw.githubusercontent.com/RC-Thoughts/LUA_AltAnnouncer/master/Lang/RCT-AltA.jsn"
+    ],
+    "destinationPath": [
+      "/Apps",
+      "/Apps/Lang"
+    ]
+  },
   "Battery Percentage": {
     "author": "RC-Thoughts",
     "version": "2.4",
