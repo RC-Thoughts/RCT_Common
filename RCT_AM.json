@@ -1,0 +1,288 @@
+{
+  "12-Hour Clock": {
+    "author": "RC-Thoughts",
+    "version": "1.2",
+    "previewImg": "https://raw.githubusercontent.com/RC-Thoughts/RCT_Common/master/images/rct_small.png",
+    "description": "https://raw.githubusercontent.com/RC-Thoughts/LUA-12h-Clock/master/README.md",
+    "sourceFile": [
+      "https://raw.githubusercontent.com/RC-Thoughts/LUA-12h-Clock/master/Source/RCT-12h.lua"
+    ],
+    "destinationPath": [
+      "/Apps"
+    ]
+  },
+  "Altitude Announcer": {
+    "author": "RC-Thoughts",
+    "version": "1.7",
+    "previewImg": "https://raw.githubusercontent.com/RC-Thoughts/RCT_Common/master/images/rct_small.png",
+    "description": "https://raw.githubusercontent.com/RC-Thoughts/LUA_AltAnnouncer/master/README.md",
+    "requiredFirmware": 4.22,
+    "sourceFile": [
+      "https://raw.githubusercontent.com/RC-Thoughts/LUA_AltAnnouncer/master/RCT-AltA.lc",
+      "https://raw.githubusercontent.com/RC-Thoughts/LUA_AltAnnouncer/master/Lang/RCT-AltA.jsn"
+    ],
+    "destinationPath": [
+      "/Apps",
+      "/Apps/Lang"
+    ]
+  },
+  "Battery Percentage": {
+    "author": "RC-Thoughts",
+    "version": "2.4",
+    "previewImg": "https://raw.githubusercontent.com/RC-Thoughts/RCT_Common/master/images/rct_small.png",
+    "description": "https://raw.githubusercontent.com/RC-Thoughts/LUA-Battery-Percentage/master/README.md",
+    "requiredFirmware": 4.23,
+    "sourceFile14_16": [
+      "https://raw.githubusercontent.com/RC-Thoughts/LUA-Battery-Percentage/master/DCDS-1416/RCT-Batt.lc",
+      "https://raw.githubusercontent.com/RC-Thoughts/LUA-Battery-Percentage/master/DCDS-1416/Lang/RCT-Batt.jsn"
+    ],
+    "sourceFile24": [
+      "https://raw.githubusercontent.com/RC-Thoughts/LUA-Battery-Percentage/master/DCDS-24/RCT-Batt.lc",
+      "https://raw.githubusercontent.com/RC-Thoughts/LUA-Battery-Percentage/master/DCDS-24/Lang/RCT-Batt.jsn"
+    ],
+    "destinationPath": [
+      "/Apps",
+      "/Apps/Lang"
+    ]
+  },
+  "Comfortable": {
+    "author": "RC-Thoughts",
+    "version": "1.4",
+    "previewImg": "https://raw.githubusercontent.com/RC-Thoughts/RCT_Common/master/images/rct_small.png",
+    "description": "https://raw.githubusercontent.com/RC-Thoughts/LUA_Comfortable/master/README.md",
+    "requiredFirmware": 4.20,
+    "sourceFile": [
+      "https://raw.githubusercontent.com/RC-Thoughts/LUA_Comfortable/master/RCT-Comf.lc",
+      "https://raw.githubusercontent.com/RC-Thoughts/LUA_Comfortable/master/Lang/RCT-Comf.jsn"
+    ],
+    "destinationPath": [
+      "/Apps",
+      "/Apps/Lang"
+    ]
+  },
+  "DualTurbine": {
+    "author": "RC-Thoughts",
+    "version": "1.0",
+    "previewImg": "https://raw.githubusercontent.com/RC-Thoughts/RCT_Common/master/images/rct_small.png",
+    "description": "https://raw.githubusercontent.com/RC-Thoughts/Lua-DualTurbine/master/README.md",
+    "requiredFirmware": 4.22,
+    "sourceFile24": [
+      "https://raw.githubusercontent.com/RC-Thoughts/Lua-DualTurbine/master/RCT-Turb.lc",
+      "https://raw.githubusercontent.com/RC-Thoughts/Lua-DualTurbine/master/Lang/RCT-Turb.jsn"
+    ],
+    "destinationPath": [
+      "/Apps",
+      "/Apps/Lang"
+    ]
+  },
+  "Empty Battery": {
+    "author": "RC-Thoughts",
+    "version": "1.5",
+    "previewImg": "https://raw.githubusercontent.com/RC-Thoughts/RCT_Common/master/images/rct_small.png",
+    "description": "https://raw.githubusercontent.com/RC-Thoughts/LUA_Empty_Battery/master/README.md",
+    "requiredFirmware": 4.22,
+    "sourceFile24": [
+      "https://raw.githubusercontent.com/RC-Thoughts/LUA_Empty_Battery/master/RCT-Empt.lc",
+      "https://raw.githubusercontent.com/RC-Thoughts/LUA_Empty_Battery/master/Lang/RCT-Empt.jsn"
+    ],
+    "destinationPath": [
+      "/Apps",
+      "/Apps/Lang"
+    ]
+  },
+  "Event Counter": {
+    "author": "RC-Thoughts",
+    "version": "2.0",
+    "previewImg": "https://raw.githubusercontent.com/RC-Thoughts/RCT_Common/master/images/rct_small.png",
+    "description": "https://raw.githubusercontent.com/RC-Thoughts/LUA_Event_Counter/master/README.md",
+    "requiredFirmware": 4.20,
+    "sourceFile14_16": [
+      "https://raw.githubusercontent.com/RC-Thoughts/LUA_Event_Counter/master/DCDS-1416/RCT-Cntr.lc",
+      "https://raw.githubusercontent.com/RC-Thoughts/LUA_Event_Counter/master/DCDS-1416/Lang/RCT-Cntr.jsn"
+    ],
+    "sourceFile24": [
+      "https://raw.githubusercontent.com/RC-Thoughts/LUA_Event_Counter/master/DCDS-24/RCT-Cntr.lc",
+      "https://raw.githubusercontent.com/RC-Thoughts/LUA_Event_Counter/master/DCDS-24/Lang/RCT-Cntr.jsn"
+    ],
+    "destinationPath": [
+      "/Apps",
+      "/Apps/Lang"
+    ]
+  },
+  "Flight Counter": {
+    "author": "RC-Thoughts",
+    "version": "1.0",
+    "previewImg": "https://raw.githubusercontent.com/RC-Thoughts/RCT_Common/master/images/rct_small.png",
+    "description": "https://raw.githubusercontent.com/RC-Thoughts/Lua-Flight_Counter/master/README.md",
+    "requiredFirmware": 4.22,
+    "sourceFile": [
+      "https://raw.githubusercontent.com/RC-Thoughts/Lua-Flight_Counter/master/RCT-FlCo.lc",
+      "https://raw.githubusercontent.com/RC-Thoughts/Lua-Flight_Counter/master/Lang/RCT-FlCo.jsn"
+    ],
+    "destinationPath": [
+      "/Apps",
+      "/Apps/Lang"
+    ]
+  },
+  "Fuel Display": {
+    "author": "RC-Thoughts",
+    "version": "1.2",
+    "previewImg": "https://raw.githubusercontent.com/RC-Thoughts/RCT_Common/master/images/rct_small.png",
+    "description": "https://raw.githubusercontent.com/RC-Thoughts/Lua-FuelDisplay/master/README.md",
+    "requiredFirmware": 4.22,
+    "sourceFile": [
+      "https://raw.githubusercontent.com/RC-Thoughts/Lua-FuelDisplay/master/RCT-Fuel.lc",
+      "https://raw.githubusercontent.com/RC-Thoughts/Lua-FuelDisplay/master/Lang/RCT-Fuel.jsn"
+    ],
+    "destinationPath": [
+      "/Apps",
+      "/Apps/Lang"
+    ]
+  },
+  "LiPo Watcher": {
+    "author": "RC-Thoughts",
+    "version": "1.2",
+    "previewImg": "https://raw.githubusercontent.com/RC-Thoughts/RCT_Common/master/images/rct_small.png",
+    "description": "https://raw.githubusercontent.com/RC-Thoughts/Lua_LiPo_Watcher/master/README.md",
+    "requiredFirmware": 4.22,
+    "sourceFile": [
+      "https://raw.githubusercontent.com/RC-Thoughts/Lua_LiPo_Watcher/master/RCT-LiPo.lc",
+      "https://raw.githubusercontent.com/RC-Thoughts/Lua_LiPo_Watcher/master/Lang/RCT-LiPo.jsn"
+    ],
+    "destinationPath": [
+      "/Apps",
+      "/Apps/Lang"
+    ]
+  },
+  "Max Current Display": {
+    "author": "RC-Thoughts",
+    "version": "1.0",
+    "previewImg": "https://raw.githubusercontent.com/RC-Thoughts/RCT_Common/master/images/rct_small.png",
+    "description": "https://raw.githubusercontent.com/RC-Thoughts/Lua-Max-Current-Display/master/README.md",
+    "requiredFirmware": 4.22,
+    "sourceFile": [
+      "https://raw.githubusercontent.com/RC-Thoughts/Lua-Max-Current-Display/master/RCT-MaxC.lc",
+      "https://raw.githubusercontent.com/RC-Thoughts/Lua-Max-Current-Display/master/Lang/RCT-MaxC.jsn"
+    ],
+    "destinationPath": [
+      "/Apps",
+      "/Apps/Lang"
+    ]
+  },
+  "Model Announcer": {
+    "author": "RC-Thoughts",
+    "version": "1.2",
+    "previewImg": "https://raw.githubusercontent.com/RC-Thoughts/RCT_Common/master/images/rct_small.png",
+    "description": "https://raw.githubusercontent.com/RC-Thoughts/LUA_Model_Announcer/master/README.md",
+    "requiredFirmware": 4.22,
+    "sourceFile": [
+      "https://raw.githubusercontent.com/RC-Thoughts/LUA_Model_Announcer/master/RCT-MAnn.lc",
+      "https://raw.githubusercontent.com/RC-Thoughts/LUA_Model_Announcer/master/Lang/RCT-MAnn.jsn"
+    ],
+    "destinationPath": [
+      "/Apps",
+      "/Apps/Lang"
+    ]
+  },
+  "Momentary to Latching Switches": {
+    "author": "RC-Thoughts",
+    "version": "1.8",
+    "previewImg": "https://raw.githubusercontent.com/RC-Thoughts/RCT_Common/master/images/rct_small.png",
+    "description": "https://raw.githubusercontent.com/RC-Thoughts/LUA_Momentary_To_Latching/master/README.md",
+    "sourceFile": [
+      "https://raw.githubusercontent.com/RC-Thoughts/LUA_Momentary_To_Latching/master/RCT-Mome.lc",
+      "https://raw.githubusercontent.com/RC-Thoughts/LUA_Momentary_To_Latching/master/Lang/RCT-Mome.jsn"
+    ],
+    "destinationPath": [
+      "/Apps",
+      "/Apps/Lang"
+    ]
+  },
+  "OneCapacity": {
+    "author": "RC-Thoughts",
+    "version": "1.2",
+    "previewImg": "https://raw.githubusercontent.com/RC-Thoughts/RCT_Common/master/images/rct_small.png",
+    "description": "https://raw.githubusercontent.com/RC-Thoughts/Lua_OneCapacity/master/README.md",
+    "requiredFirmware": 4.22,
+    "sourceFile": [
+      "https://raw.githubusercontent.com/RC-Thoughts/Lua_OneCapacity/master/RCT-OneC.lc",
+      "https://raw.githubusercontent.com/RC-Thoughts/Lua_OneCapacity/master/Lang/RCT-OneC.jsn"
+    ],
+    "destinationPath": [
+      "/Apps",
+      "/Apps/Lang"
+    ]
+  },
+  "RFID-Battery": {
+    "author": "RC-Thoughts",
+    "version": "2.4",
+    "previewImg": "https://raw.githubusercontent.com/RC-Thoughts/RCT_Common/master/images/rct_small.png",
+    "description": "https://raw.githubusercontent.com/RC-Thoughts/LUA_RFID-Battery/master/README.md",
+    "requiredFirmware": 4.20,
+    "sourceFile14_16": [
+      "https://raw.githubusercontent.com/RC-Thoughts/LUA_RFID-Battery/master/DCDS-1416/RCT-Rfid.lc",
+      "https://raw.githubusercontent.com/RC-Thoughts/LUA_RFID-Battery/master/DCDS-1416/Lang/RCT-Rfid.jsn"
+    ],
+    "sourceFile24": [
+      "https://raw.githubusercontent.com/RC-Thoughts/LUA_RFID-Battery/master/DCDS-24/RCT-Rfid.lc",
+      "https://raw.githubusercontent.com/RC-Thoughts/LUA_RFID-Battery/master/DCDS-24/Lang/RCT-Rfid.jsn"
+    ],
+    "destinationPath": [
+      "/Apps",
+      "/Apps/Lang"
+    ]
+  },
+  "Snapper": {
+    "author": "RC-Thoughts",
+    "version": "1.5",
+    "previewImg": "https://raw.githubusercontent.com/RC-Thoughts/RCT_Common/master/images/rct_small.png",
+    "description": "https://raw.githubusercontent.com/RC-Thoughts/LUA_Snapper/master/README.md",
+    "requiredFirmware": 4.20,
+    "sourceFile14_16": [
+      "https://raw.githubusercontent.com/RC-Thoughts/LUA_Snapper/master/DCDS-1416/RCT-Snap.lc",
+      "https://raw.githubusercontent.com/RC-Thoughts/LUA_Snapper/master/DCDS-1416/Lang/RCT-Snap.jsn"
+    ],
+    "sourceFile24": [
+      "https://raw.githubusercontent.com/RC-Thoughts/LUA_Snapper/master/DCDS-24/RCT-Snap.lc",
+      "https://raw.githubusercontent.com/RC-Thoughts/LUA_Snapper/master/DCDS-24/Lang/RCT-Snap.jsn"
+    ],
+    "destinationPath": [
+      "/Apps",
+      "/Apps/Lang"
+    ]
+  },
+  "Telemetry value to Percentage": {
+    "author": "RC-Thoughts",
+    "version": "2.5",
+    "previewImg": "https://raw.githubusercontent.com/RC-Thoughts/RCT_Common/master/images/rct_small.png",
+    "description": "https://raw.githubusercontent.com/RC-Thoughts/LUA_Percentage/master/README.md",
+    "requiredFirmware": 4.20,
+    "sourceFile14_16": [
+      "https://raw.githubusercontent.com/RC-Thoughts/LUA_Percentage/master/DCDS-1416/RCT-Perc.lc",
+      "https://raw.githubusercontent.com/RC-Thoughts/LUA_Percentage/master/DCDS-1416/Lang/RCT-Perc.jsn"
+    ],
+    "sourceFile24": [
+      "https://raw.githubusercontent.com/RC-Thoughts/LUA_Percentage/master/DCDS-24/RCT-Perc.lc",
+      "https://raw.githubusercontent.com/RC-Thoughts/LUA_Percentage/master/DCDS-24/Lang/RCT-Perc.jsn"
+    ],
+    "destinationPath": [
+      "/Apps",
+      "/Apps/Lang"
+    ]
+  },
+  "Time Speaker": {
+    "author": "RC-Thoughts",
+    "version": "1.0",
+    "previewImg": "https://raw.githubusercontent.com/RC-Thoughts/RCT_Common/master/images/rct_small.png",
+    "description": "https://raw.githubusercontent.com/RC-Thoughts/Lua-TimeSpeaker/master/README.md",
+    "requiredFirmware": 4.22,
+    "sourceFile": [
+      "https://raw.githubusercontent.com/RC-Thoughts/Lua-TimeSpeaker/master/RCT-Time.lc",
+      "https://raw.githubusercontent.com/RC-Thoughts/Lua-TimeSpeaker/master/Lang/RCT-Time.jsn"
+    ],
+    "destinationPath": [
+      "/Apps",
+      "/Apps/Lang"
+    ]
+  }
+}
