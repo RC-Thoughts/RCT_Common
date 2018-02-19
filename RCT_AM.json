@@ -154,6 +154,21 @@
       "/Apps/Lang"
     ]
   },
+  "Lua Labeler": {
+    "author": "RC-Thoughts",
+    "version": "1.0",
+    "previewImg": "https://raw.githubusercontent.com/RC-Thoughts/RCT_Common/master/images/rct_small.png",
+    "description": "https://raw.githubusercontent.com/RC-Thoughts/Lua_Labeler/master/README.md",
+    "requiredFirmware": 4.22,
+    "sourceFile": [
+      "https://raw.githubusercontent.com/RC-Thoughts/RC-Thoughts/Lua_Labeler/master/RCT-Lblr.lc",
+      "https://raw.githubusercontent.com/RC-Thoughts/RC-Thoughts/Lua_Labeler/master/Lang/RCT-Lblr.jsn"
+    ],
+    "destinationPath": [
+      "/Apps",
+      "/Apps/Lang"
+    ]
+  },
   "Max Current Display": {
     "author": "RC-Thoughts",
     "version": "1.0",
