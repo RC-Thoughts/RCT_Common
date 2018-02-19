@@ -1,5 +1,5 @@
 {
-  "12-Hour Clock": {
+  "RCT 12-Hour Clock": {
     "author": "RC-Thoughts",
     "version": "1.2",
     "previewImg": "https://raw.githubusercontent.com/RC-Thoughts/RCT_Common/master/images/rct_small.png",
@@ -11,7 +11,7 @@
       "/Apps"
     ]
   },
-  "Altitude Announcer": {
+  "RCT Altitude Announcer": {
     "author": "RC-Thoughts",
     "version": "1.7",
     "previewImg": "https://raw.githubusercontent.com/RC-Thoughts/RCT_Common/master/images/rct_small.png",
@@ -26,7 +26,7 @@
       "/Apps/Lang"
     ]
   },
-  "Battery Percentage": {
+  "RCT Battery Percentage": {
     "author": "RC-Thoughts",
     "version": "2.4",
     "previewImg": "https://raw.githubusercontent.com/RC-Thoughts/RCT_Common/master/images/rct_small.png",
@@ -45,7 +45,7 @@
       "/Apps/Lang"
     ]
   },
-  "Comfortable": {
+  "RCT Comfortable": {
     "author": "RC-Thoughts",
     "version": "1.4",
     "previewImg": "https://raw.githubusercontent.com/RC-Thoughts/RCT_Common/master/images/rct_small.png",
@@ -60,7 +60,7 @@
       "/Apps/Lang"
     ]
   },
-  "DualTurbine": {
+  "RCT DualTurbine": {
     "author": "RC-Thoughts",
     "version": "1.0",
     "previewImg": "https://raw.githubusercontent.com/RC-Thoughts/RCT_Common/master/images/rct_small.png",
@@ -75,7 +75,7 @@
       "/Apps/Lang"
     ]
   },
-  "Empty Battery": {
+  "RCT Empty Battery": {
     "author": "RC-Thoughts",
     "version": "1.5",
     "previewImg": "https://raw.githubusercontent.com/RC-Thoughts/RCT_Common/master/images/rct_small.png",
@@ -90,7 +90,7 @@
       "/Apps/Lang"
     ]
   },
-  "Event Counter": {
+  "RCT Event Counter": {
     "author": "RC-Thoughts",
     "version": "2.0",
     "previewImg": "https://raw.githubusercontent.com/RC-Thoughts/RCT_Common/master/images/rct_small.png",
@@ -109,7 +109,7 @@
       "/Apps/Lang"
     ]
   },
-  "Flight Counter": {
+  "RCT Flight Counter": {
     "author": "RC-Thoughts",
     "version": "1.0",
     "previewImg": "https://raw.githubusercontent.com/RC-Thoughts/RCT_Common/master/images/rct_small.png",
@@ -124,7 +124,7 @@
       "/Apps/Lang"
     ]
   },
-  "Fuel Display": {
+  "RCT Fuel Display": {
     "author": "RC-Thoughts",
     "version": "1.2",
     "previewImg": "https://raw.githubusercontent.com/RC-Thoughts/RCT_Common/master/images/rct_small.png",
@@ -139,7 +139,7 @@
       "/Apps/Lang"
     ]
   },
-  "LiPo Watcher": {
+  "RCT LiPo Watcher": {
     "author": "RC-Thoughts",
     "version": "1.2",
     "previewImg": "https://raw.githubusercontent.com/RC-Thoughts/RCT_Common/master/images/rct_small.png",
@@ -154,7 +154,7 @@
       "/Apps/Lang"
     ]
   },
-  "Lua Labeler": {
+  "RCT Lua Labeler": {
     "author": "RC-Thoughts",
     "version": "1.0",
     "previewImg": "https://raw.githubusercontent.com/RC-Thoughts/RCT_Common/master/images/rct_small.png",
@@ -169,7 +169,7 @@
       "/Apps/Lang"
     ]
   },
-  "Max Current Display": {
+  "RCT Max Current Display": {
     "author": "RC-Thoughts",
     "version": "1.0",
     "previewImg": "https://raw.githubusercontent.com/RC-Thoughts/RCT_Common/master/images/rct_small.png",
@@ -184,7 +184,7 @@
       "/Apps/Lang"
     ]
   },
-  "Model Announcer": {
+  "RCT Model Announcer": {
     "author": "RC-Thoughts",
     "version": "1.2",
     "previewImg": "https://raw.githubusercontent.com/RC-Thoughts/RCT_Common/master/images/rct_small.png",
@@ -199,7 +199,7 @@
       "/Apps/Lang"
     ]
   },
-  "Momentary to Latching Switches": {
+  "RCT Momentary to Latching Switches": {
     "author": "RC-Thoughts",
     "version": "1.8",
     "previewImg": "https://raw.githubusercontent.com/RC-Thoughts/RCT_Common/master/images/rct_small.png",
@@ -213,7 +213,7 @@
       "/Apps/Lang"
     ]
   },
-  "OneCapacity": {
+  "RCT OneCapacity": {
     "author": "RC-Thoughts",
     "version": "1.2",
     "previewImg": "https://raw.githubusercontent.com/RC-Thoughts/RCT_Common/master/images/rct_small.png",
@@ -228,7 +228,7 @@
       "/Apps/Lang"
     ]
   },
-  "RFID-Battery": {
+  "RCT RFID-Battery": {
     "author": "RC-Thoughts",
     "version": "2.4",
     "previewImg": "https://raw.githubusercontent.com/RC-Thoughts/RCT_Common/master/images/rct_small.png",
@@ -247,7 +247,7 @@
       "/Apps/Lang"
     ]
   },
-  "Snapper": {
+  "RCT Snapper": {
     "author": "RC-Thoughts",
     "version": "1.5",
     "previewImg": "https://raw.githubusercontent.com/RC-Thoughts/RCT_Common/master/images/rct_small.png",
@@ -266,7 +266,7 @@
       "/Apps/Lang"
     ]
   },
-  "Telemetry value to Percentage": {
+  "RCT Telemetry value to Percentage": {
     "author": "RC-Thoughts",
     "version": "2.5",
     "previewImg": "https://raw.githubusercontent.com/RC-Thoughts/RCT_Common/master/images/rct_small.png",
@@ -285,7 +285,7 @@
       "/Apps/Lang"
     ]
   },
-  "Time Speaker": {
+  "RCT Time Speaker": {
     "author": "RC-Thoughts",
     "version": "1.0",
     "previewImg": "https://raw.githubusercontent.com/RC-Thoughts/RCT_Common/master/images/rct_small.png",
