@@ -33,12 +33,12 @@
     "description": "https://raw.githubusercontent.com/RC-Thoughts/LUA-Battery-Percentage/master/README.md",
     "requiredFirmware": 4.23,
     "sourceFile14_16": [
-      "https://raw.githubusercontent.com/RC-Thoughts/LUA-Battery-Percentage/master/DCDS-1416/RCT-Batt.lc",
-      "https://raw.githubusercontent.com/RC-Thoughts/LUA-Battery-Percentage/master/DCDS-1416/Lang/RCT-Batt.jsn"
+      "https://raw.githubusercontent.com/RC-Thoughts/LUA-Battery-Percentage/master/DCDS-1416/RCT-Bat1.lc",
+      "https://raw.githubusercontent.com/RC-Thoughts/LUA-Battery-Percentage/master/DCDS-1416/Lang/RCT-Bat1.jsn"
     ],
     "sourceFile24": [
-      "https://raw.githubusercontent.com/RC-Thoughts/LUA-Battery-Percentage/master/DCDS-24/RCT-Batt.lc",
-      "https://raw.githubusercontent.com/RC-Thoughts/LUA-Battery-Percentage/master/DCDS-24/Lang/RCT-Batt.jsn"
+      "https://raw.githubusercontent.com/RC-Thoughts/LUA-Battery-Percentage/master/DCDS-24/RCT-Bat2.lc",
+      "https://raw.githubusercontent.com/RC-Thoughts/LUA-Battery-Percentage/master/DCDS-24/Lang/RCT-Bat2.jsn"
     ],
     "destinationPath": [
       "/Apps",
@@ -97,12 +97,12 @@
     "description": "https://raw.githubusercontent.com/RC-Thoughts/LUA_Event_Counter/master/README.md",
     "requiredFirmware": 4.20,
     "sourceFile14_16": [
-      "https://raw.githubusercontent.com/RC-Thoughts/LUA_Event_Counter/master/DCDS-1416/RCT-Cntr.lc",
-      "https://raw.githubusercontent.com/RC-Thoughts/LUA_Event_Counter/master/DCDS-1416/Lang/RCT-Cntr.jsn"
+      "https://raw.githubusercontent.com/RC-Thoughts/LUA_Event_Counter/master/DCDS-1416/RCT-Cnt1.lc",
+      "https://raw.githubusercontent.com/RC-Thoughts/LUA_Event_Counter/master/DCDS-1416/Lang/RCT-Cnt1.jsn"
     ],
     "sourceFile24": [
-      "https://raw.githubusercontent.com/RC-Thoughts/LUA_Event_Counter/master/DCDS-24/RCT-Cntr.lc",
-      "https://raw.githubusercontent.com/RC-Thoughts/LUA_Event_Counter/master/DCDS-24/Lang/RCT-Cntr.jsn"
+      "https://raw.githubusercontent.com/RC-Thoughts/LUA_Event_Counter/master/DCDS-24/RCT-Cnt2.lc",
+      "https://raw.githubusercontent.com/RC-Thoughts/LUA_Event_Counter/master/DCDS-24/Lang/RCT-Cnt2.jsn"
     ],
     "destinationPath": [
       "/Apps",
@@ -235,12 +235,12 @@
     "description": "https://raw.githubusercontent.com/RC-Thoughts/LUA_RFID-Battery/master/README.md",
     "requiredFirmware": 4.20,
     "sourceFile14_16": [
-      "https://raw.githubusercontent.com/RC-Thoughts/LUA_RFID-Battery/master/DCDS-1416/RCT-Rfid.lc",
-      "https://raw.githubusercontent.com/RC-Thoughts/LUA_RFID-Battery/master/DCDS-1416/Lang/RCT-Rfid.jsn"
+      "https://raw.githubusercontent.com/RC-Thoughts/LUA_RFID-Battery/master/DCDS-1416/RCT-Rfi1.lc",
+      "https://raw.githubusercontent.com/RC-Thoughts/LUA_RFID-Battery/master/DCDS-1416/Lang/RCT-Rfi1.jsn"
     ],
     "sourceFile24": [
-      "https://raw.githubusercontent.com/RC-Thoughts/LUA_RFID-Battery/master/DCDS-24/RCT-Rfid.lc",
-      "https://raw.githubusercontent.com/RC-Thoughts/LUA_RFID-Battery/master/DCDS-24/Lang/RCT-Rfid.jsn"
+      "https://raw.githubusercontent.com/RC-Thoughts/LUA_RFID-Battery/master/DCDS-24/RCT-Rfi2.lc",
+      "https://raw.githubusercontent.com/RC-Thoughts/LUA_RFID-Battery/master/DCDS-24/Lang/RCT-Rfi2.jsn"
     ],
     "destinationPath": [
       "/Apps",
@@ -254,12 +254,12 @@
     "description": "https://raw.githubusercontent.com/RC-Thoughts/LUA_Snapper/master/README.md",
     "requiredFirmware": 4.20,
     "sourceFile14_16": [
-      "https://raw.githubusercontent.com/RC-Thoughts/LUA_Snapper/master/DCDS-1416/RCT-Snap.lc",
-      "https://raw.githubusercontent.com/RC-Thoughts/LUA_Snapper/master/DCDS-1416/Lang/RCT-Snap.jsn"
+      "https://raw.githubusercontent.com/RC-Thoughts/LUA_Snapper/master/DCDS-1416/RCT-Sna1.lc",
+      "https://raw.githubusercontent.com/RC-Thoughts/LUA_Snapper/master/DCDS-1416/Lang/RCT-Sna1.jsn"
     ],
     "sourceFile24": [
-      "https://raw.githubusercontent.com/RC-Thoughts/LUA_Snapper/master/DCDS-24/RCT-Snap.lc",
-      "https://raw.githubusercontent.com/RC-Thoughts/LUA_Snapper/master/DCDS-24/Lang/RCT-Snap.jsn"
+      "https://raw.githubusercontent.com/RC-Thoughts/LUA_Snapper/master/DCDS-24/RCT-Sna2.lc",
+      "https://raw.githubusercontent.com/RC-Thoughts/LUA_Snapper/master/DCDS-24/Lang/RCT-Sna2.jsn"
     ],
     "destinationPath": [
       "/Apps",
@@ -273,12 +273,12 @@
     "description": "https://raw.githubusercontent.com/RC-Thoughts/LUA_Percentage/master/README.md",
     "requiredFirmware": 4.20,
     "sourceFile14_16": [
-      "https://raw.githubusercontent.com/RC-Thoughts/LUA_Percentage/master/DCDS-1416/RCT-Perc.lc",
-      "https://raw.githubusercontent.com/RC-Thoughts/LUA_Percentage/master/DCDS-1416/Lang/RCT-Perc.jsn"
+      "https://raw.githubusercontent.com/RC-Thoughts/LUA_Percentage/master/DCDS-1416/RCT-Per1.lc",
+      "https://raw.githubusercontent.com/RC-Thoughts/LUA_Percentage/master/DCDS-1416/Lang/RCT-Per1.jsn"
     ],
     "sourceFile24": [
-      "https://raw.githubusercontent.com/RC-Thoughts/LUA_Percentage/master/DCDS-24/RCT-Perc.lc",
-      "https://raw.githubusercontent.com/RC-Thoughts/LUA_Percentage/master/DCDS-24/Lang/RCT-Perc.jsn"
+      "https://raw.githubusercontent.com/RC-Thoughts/LUA_Percentage/master/DCDS-24/RCT-Per2.lc",
+      "https://raw.githubusercontent.com/RC-Thoughts/LUA_Percentage/master/DCDS-24/Lang/RCT-Per2.jsn"
     ],
     "destinationPath": [
       "/Apps",
