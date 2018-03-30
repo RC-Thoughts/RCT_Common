@@ -299,5 +299,24 @@
       "/Apps",
       "/Apps/Lang"
     ]
+  },
+  "RCT WindSpeed": {
+    "author": "RC-Thoughts",
+    "version": "1.0",
+    "previewImg": "https://raw.githubusercontent.com/RC-Thoughts/RCT_Common/master/images/rct_small.png",
+    "description": "https://raw.githubusercontent.com/RC-Thoughts/Lua_WindSpeed/master/README.md",
+    "requiredFirmware": 4.27,
+    "sourceFile": [
+      "https://raw.githubusercontent.com/RC-Thoughts/Lua_WindSPeed/master/RCT-Wind.lc",
+      "https://raw.githubusercontent.com/RC-Thoughts/Lua_WindSpeed/master/Lang/RCT-Wind.jsn"
+      "https://raw.githubusercontent.com/RC-Thoughts/Lua_WindSpeed/master/Voice/Headwind.wav"
+      "https://raw.githubusercontent.com/RC-Thoughts/Lua_WindSpeed/master/Voice/Tailwind.wav"
+    ],
+    "destinationPath": [
+      "/Apps",
+      "/Apps/Lang"
+      "/Apps/Voice"
+      "/Apps/Voice"
+    ]
   }
 }
