@@ -228,6 +228,24 @@
       "/Apps/Lang"
     ]
   },
+  "RCT Randomizer": {
+    "author": "RC-Thoughts",
+    "version": "1.0",
+    "previewImg": "https://raw.githubusercontent.com/RC-Thoughts/RCT_Common/master/images/rct_small.png",
+    "description": "https://raw.githubusercontent.com/RC-Thoughts/Lua_Randomizer/master/README.md",
+    "requiredFirmware": 4.22,
+    "sourceFile": [
+      "https://raw.githubusercontent.com/RC-Thoughts/Lua_Randomizer/master/RCT-VRan.lc",
+      "https://raw.githubusercontent.com/RC-Thoughts/Lua_Randomizer/master/Lang/RCT-VRan.jsn"
+      "https://raw.githubusercontent.com/RC-Thoughts/Lua_Randomizer/master/StartVoices/1.wav"
+      "https://raw.githubusercontent.com/RC-Thoughts/Lua_Randomizer/master/StartVoices/2.wav"
+    ],
+    "destinationPath": [
+      "/Apps",
+      "/Apps/Lang"
+      "/Apps/StartVoices"
+    ]
+  },
   "RCT RFID-Battery": {
     "author": "RC-Thoughts",
     "version": "2.4",
