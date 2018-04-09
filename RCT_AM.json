@@ -230,7 +230,7 @@
   },
   "RCT Randomizer": {
     "author": "RC-Thoughts",
-    "version": "1.0",
+    "version": "1.1",
     "previewImg": "https://raw.githubusercontent.com/RC-Thoughts/RCT_Common/master/images/rct_small.png",
     "description": "https://raw.githubusercontent.com/RC-Thoughts/Lua_Randomizer/master/README.md",
     "requiredFirmware": 4.22,
